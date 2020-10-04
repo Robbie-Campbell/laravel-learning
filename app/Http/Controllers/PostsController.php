@@ -2,8 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-
 class PostsController extends Controller
 {
     public function show($slug)
@@ -12,7 +10,7 @@ class PostsController extends Controller
 
 
         return view("post", [
-            "post" => $post
+            "post" => dd($post)
         ]);
     }
 }
