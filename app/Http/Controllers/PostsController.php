@@ -6,20 +6,13 @@ use Illuminate\Http\Request;
 
 class PostsController extends Controller
 {
-    public function show($post)
+    public function show($slug)
     {
-        $posts = [
-            "my-first-post" => "This is my first time using laravel!",
-            "my-second-post" => "It's still my first time!",
-        ];
+        $post = \DB::table("posts")->where("slug", $slug)->first();
 
-        if (! array_key_exists($post, $posts))
-        {
-            abort(404, "Sorry that post doesnt exist yet!");
-        }
 
         return view("post", [
-            "post" => $posts[$post]
+            "post" => $post
         ]);
     }
 }
