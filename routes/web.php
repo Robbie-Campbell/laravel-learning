@@ -12,7 +12,24 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get("/post/{post}", function($post){
+    $posts = [
+        "my-first-post" => "This is my first time using laravel!",
+        "my-second-post" => "It's still my first time!",
+    ];
 
-Route::get('/', function () {
-    return view('welcome');
+    return view("post", [
+        "post" => $posts[$post]
+    ]);
+});
+
+
+Route::get('/test', function () {
+    $name = request("name");
+    $age = request("age");
+
+    return view('test', [
+        "name" => $name,
+        "age" => $age
+    ]);
 });
