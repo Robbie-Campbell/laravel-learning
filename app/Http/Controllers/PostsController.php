@@ -10,7 +10,7 @@ class PostsController extends Controller
 
 
         return view("post", [
-            "post" => dd($post)
+            "post" => $post
         ]);
     }
 }
