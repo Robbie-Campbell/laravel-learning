@@ -15,12 +15,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6961a6a5-d343-4243-92a7-1846bbc59e52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +191,7 @@
       <workItem from="1601830861455" duration="7016000" />
       <workItem from="1601847046966" duration="3105000" />
       <workItem from="1601917242375" duration="1053000" />
+      <workItem from="1602013402810" duration="1283000" />
     </task>
     <servers />
   </component>
@@ -217,22 +216,22 @@
     </state>
     <state x="224" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601833284595" />
     <state x="288" y="356" width="642" height="400" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1601993035049" />
-    <state width="874" height="277" key="GridCell.Tab.0.bottom" timestamp="1601993326988">
+    <state width="874" height="277" key="GridCell.Tab.0.bottom" timestamp="1601994109329">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="874" height="277" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601993326988" />
-    <state width="874" height="277" key="GridCell.Tab.0.center" timestamp="1601993326986">
+    <state width="874" height="277" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1601994109329" />
+    <state width="874" height="277" key="GridCell.Tab.0.center" timestamp="1601994109329">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="874" height="277" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601993326986" />
-    <state width="874" height="277" key="GridCell.Tab.0.left" timestamp="1601993326984">
+    <state width="874" height="277" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1601994109329" />
+    <state width="874" height="277" key="GridCell.Tab.0.left" timestamp="1601994109328">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="874" height="277" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601993326984" />
-    <state width="874" height="277" key="GridCell.Tab.0.right" timestamp="1601993326987">
+    <state width="874" height="277" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1601994109328" />
+    <state width="874" height="277" key="GridCell.Tab.0.right" timestamp="1601994109329">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="874" height="277" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601993326987" />
+    <state width="874" height="277" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1601994109329" />
     <state x="184" y="246" key="NewPhpClassDialog" timestamp="1601834509277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,10 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601847428235" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1601991164683">
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1602014436953">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601849104760" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601991164683" />
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602014436953" />
   </component>
 </project>
