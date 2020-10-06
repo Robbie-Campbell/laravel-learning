@@ -1,9 +1,5 @@
 @extends("layout")
 
-@section("header-featured")
-    <h1 class="style1">This is the special header section of the webpage</h1>
-@endsection
-
 @section("content")
     <div id="wrapper">
         <div id="page" class="container">

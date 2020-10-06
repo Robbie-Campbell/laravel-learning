@@ -14,11 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6961a6a5-d343-4243-92a7-1846bbc59e52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Assignment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Assignment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_06_124916_create_assignments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_06_124916_create_assignments_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -170,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="C:\Users\robbi\PhpstormProjects\laravel-learning\app\Http" />
     </key>
@@ -222,10 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601847428235" />
-    <state x="672" y="255" width="672" height="687" key="search.everywhere.popup" timestamp="1601989279669">
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1601991164683">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601849104760" />
-    <state x="672" y="255" width="672" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601989279669" />
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601991164683" />
   </component>
 </project>
