@@ -55,3 +55,8 @@ Route::get("/about", function ()
          "articles" => App\Models\Article::take(2)->latest()->get()
      ]);
 });
+
+Route::get("/articles/{article}", "App\\Http\\Controllers\\ArticlesController@show");
+
+Route::get("/articles", "App\\Http\\Controllers\\ArticlesController@index");
+

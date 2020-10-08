@@ -14,8 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6961a6a5-d343-4243-92a7-1846bbc59e52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/articles.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/articles/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -168,9 +169,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/public/themeimport" />
       <recent name="$PROJECT_DIR$/public/css" />
-      <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="C:\Users\robbi\PhpstormProjects\laravel-learning\app\Http" />
     </key>
   </component>
@@ -191,7 +192,9 @@
       <workItem from="1601830861455" duration="7016000" />
       <workItem from="1601847046966" duration="3105000" />
       <workItem from="1601917242375" duration="1053000" />
-      <workItem from="1602013402810" duration="1283000" />
+      <workItem from="1602013402810" duration="1350000" />
+      <workItem from="1602158299845" duration="2241000" />
+      <workItem from="1602176460844" duration="863000" />
     </task>
     <servers />
   </component>
@@ -240,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601847428235" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1602014436953">
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1602158446376">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601849104760" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602014436953" />
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602158446376" />
   </component>
 </project>
