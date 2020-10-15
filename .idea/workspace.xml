@@ -16,6 +16,8 @@
     <list default="true" id="6961a6a5-d343-4243-92a7-1846bbc59e52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/articles/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/articles/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +195,7 @@
       <workItem from="1602158299845" duration="2241000" />
       <workItem from="1602176460844" duration="1002000" />
       <workItem from="1602687358381" duration="919000" />
-      <workItem from="1602778251315" duration="1117000" />
+      <workItem from="1602778251315" duration="3501000" />
     </task>
     <servers />
   </component>
@@ -213,6 +215,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="72" y="138" width="1838" height="829" key="#Live_Templates" timestamp="1602780272138">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="138" width="1838" height="829" key="#Live_Templates/72.27.1848.1053@72.27.1848.1053" timestamp="1602780272138" />
     <state x="288" y="356" width="642" height="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601993035049">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -242,10 +248,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601847428235" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1602158446376">
+    <state x="275" y="361" key="save.file.as.template.dialog" timestamp="1602779810703">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="275" y="361" key="save.file.as.template.dialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602779810703" />
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup" timestamp="1602780248788">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601849104760" />
-    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602158446376" />
+    <state x="672" y="255" width="673" height="687" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602780248788" />
   </component>
 </project>

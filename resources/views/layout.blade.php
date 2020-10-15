@@ -17,6 +17,7 @@ Released   : 20140225
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" />
     <link href="/css/default.css" rel="stylesheet" />
     <link href="/css/fonts.css" rel="stylesheet" />
     <link rel="stylesheet" href="{{mix("css/app.css")}}"/>
