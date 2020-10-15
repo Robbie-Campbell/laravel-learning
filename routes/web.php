@@ -56,7 +56,7 @@ Route::get("/about", function ()
      ]);
 });
 
-Route::get("/articles/{article}", "App\\Http\\Controllers\\ArticlesController@show");
-
 Route::get("/articles", "App\\Http\\Controllers\\ArticlesController@index");
+Route::get("/articles/create", "App\\Http\\Controllers\\ArticlesController@create");
+Route::get("/articles/{article}", "App\\Http\\Controllers\\ArticlesController@show");
 
